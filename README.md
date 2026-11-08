@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-**'Syed Noman'**
+## Hi there i am Syed Noman
 
 
 - 🔭 I’m currently working on ...
