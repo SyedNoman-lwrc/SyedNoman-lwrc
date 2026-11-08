@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**'Syed Noman'**
+**'SyedNoman'**
 
 
 - 🔭 I’m currently working on ...
