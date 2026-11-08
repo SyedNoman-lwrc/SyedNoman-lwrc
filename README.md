@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**'SyedNoman'**
+
+**'Syed Noman'**
 
 
 - 🔭 I’m currently working on ...
@@ -12,4 +12,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
